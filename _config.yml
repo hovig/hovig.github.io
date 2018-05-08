@@ -60,8 +60,8 @@ roles:
    employer: IBM
    description: Designing and developing mobile, IoT and web applications (frontend/backend) including hands-on platform infrastructures using VM, Bluemix Cloud and SoftLayer. Worked as devops on server side development and configurations for Watson IoT Platform and others. Created prototypes and real world applications end-to-end (small and large scale). Working on different cloud projects including IBM’s Cloudprivate with Kubernetes. Participated to hackathons, code challenging tools online and prepared/participated in hackathons and workshops.
  - title: Software Engineer
-   start: 2015
-   end: 2011
+   start: 2011
+   end: 2015
    employer: Startup + Enterprise
    description: End-to-end solutions
 
@@ -88,11 +88,11 @@ youtube:
       link: https://www.youtube.com/watch?v=WKnrbA-N13A
       optionalimage: https://i.ytimg.com/vi/WKnrbA-N13A/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLBnypsq14agZmxYEWSOBqKyK9jNPw
       date: Oct 27, 2017
-    - title: watson iot blockchain node-red
+    - title: Watson iot blockchain node-red
       link: https://www.youtube.com/watch?v=qI3a5QU0iys
       optionalimage: https://i.ytimg.com/vi/qI3a5QU0iys/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLAxLZY3UKsZ7pdBzx2eN0AGPZBsrw
       date: Apr 16, 2018
-    - title: pulse iot watson machine learning - web based mobile health app
+    - title: Pulse iot watson machine learning - web based mobile health app
       link: https://www.youtube.com/watch?v=mtzQQfU8VuU
       optionalimage: https://i.ytimg.com/vi/mtzQQfU8VuU/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLArXcXcYsqStnwlht86BaLs7oqyOw
       date: Apr 12, 2018
