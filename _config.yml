@@ -155,37 +155,37 @@ apps:
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
 
- <span>&#10033;</span> Bluemix: Node Red  and Push Notifications for Spark Core - Web and Mobile (Android) control of Particle Core device using Node-Red and Push notification on Bluemix to turn LED on/off through WiFi
- <br><span>&#10033;</span> Xbee, Ethernet, Arduino, Node Red and MongoDB: Project with Xbees, Arduinos, Ethernet and Bluemix. The data read from the device is saved in MongoDB database
- <br><span>&#10033;</span> Cognitive Builder Faire : Cognitive and Data innovation faire – Won the 2nd place in the data science hackathon
- <br><span>&#10033;</span> Analyze an image and send status alert : An  IoT app that uses Openwhisk serverless and Watson visual recognition to analyze images and send alert notifications
- <br><span>&#10033;</span> How to generate API key and token in IBM Watson IoT Platform
- <br><strong><u>Technologies</u></strong>: android, node-red, java, xml, sqlite, bluemix, Watson apis, analytics, docker, apim, arduino, C, javascript, node.js, angularJS, devops, kafka/zookeeper, cloud, mqtt, security, react-redux, mongo, python (Codewars.com level: 4kyu), internet of things (connect devices to cloud from A to Z), AR, html, css, ajax, jquery, slack bot, devops, kubernetes, serverless, prometheus/alertmanager
- <br>
- <br><span>&#10033;</span> CarLot - Park & Save: Designed to resolve ongoing inefficiency. Valuable to find a car in airport and mall parking lots. Save location to mobile device and use a route map to return to the saved location.  Calculates shortest walking route and estimated walking time. Includes  option to save a picture of the location to the file and many other options.
- <br><span>&#10033;</span> Attendance: Designed and coded app to resolve ongoing inefficiency. Applicable worldwide. Especially valuable to administrators needing to record attendance at  meetings, classes, and conferences. Replaces the need for hardcopy sign-in. Records attendee name, physical location at time of sign-in, date, and time.
- <br><span>&#10033;</span> Wisdom Of Solomon: Designed and coded to inspire people with great quotings and wisdoms. It has a great value of self-consciousness and a moment of thought for meditation.
- <br><span>&#10033;</span> Zruyts: Java based web application and Android app (both seperately) can communicate in one place (like chat room) can have multiple users joining in.
- <br><span>&#10033;</span> Bluemix Spark Core LED On/Off: Android app for a tutorial project to turn an LED on or off through HTTP request to a Particle Core WiFi device which in turns uses REST API to process that request.
- <br><span>&#10033;</span> Rundberg Community : mobile web application using Watson’s Translation, Speech-to-Text & Text-to-Speech
- <br><strong><u>Technologies</u></strong>: android, javascript, java, xml, sqlite, mysql, Arduino C, node-red, Watson, html
- <br>
- <br><span>&#10033;</span> Programmed applications using Java, Natclipse, Javascript, database , spring, struts, hibernate web application, and Job Control Language (JCL), performed unit testing.
- <br><span>&#10033;</span> Participated in Agile/Sprint Scrum meetings to customize and integrate Innowake tools into the client environment.
- <br><span>&#10033;</span> Developed, tested and debugged applications and dialogs refactored from Natural to Java: Adabas to db2, and Java Swing POS client to Java/Javascript client  in the back-end (mainly testing) and in the Swing/Web client (Spring Framework).
- <br><span>&#10033;</span> Project phases: Programmed and debugged backend Java application during 4-month  Pilot phase. Programmed and debugged frontend Java Swing application durig 4-month Iteration 1 Part 1 phase.
- <br><strong><u>Technologies</u></strong>: xml, javascript, j2ee, swing, maven, CVS, JUnit, db2, SQL, Apache Tomcat, agile lifecycle, Jira
- <br>
- <br><span>&#10033;</span> Contributed to the full software lifecycle, from defining requirements through successful deployment for different games with POS Altura, GT1100, GT1200 terminals and many other terminal types.
- <br><span>&#10033;</span> Analyzed user requirements, designed and programmed enhancements to core Java application in Embedded Software on lottery terminals accessed by millions of retailers worldwide.
- <br><span>&#10033;</span> Core Java programming, from AWT user interface coding for dialogs, multithreading, transaction, scripting (TML) to print, and back end performance design to communicate with attached platforms.
- <br><span>&#10033;</span> Used SSH from Windows to upload and debug code behavior (on logs) on terminals which runs on Linux operating system and its all attached hardware peripherals using Kshell.
- <br><span>&#10033;</span> Waterfall Software Design methodology, documentation & project code estimates.
- <br><span>&#10033;</span> Worked with projects teams in U.S. & abroad.
- <br><strong><u>Technologies</u></strong>: java, xml, eclipse, linux, tml, CVS, SVN, waterfall lifecycle, Jira, Shell Scripting, Putty
- <br>
- <br><span>&#10033;</span> Recognized the value and developed the algorithm to add a third vector for 2D Text Visualization graphic display. The third vector enablement of 3D Text Visualization to exponentially accelerate problem solving.
- <br><span>&#10033;</span> Data Mining (JSON, Carot2 Clustering Engine, Apache Lucene – Query Parser Syntax), Data Analysis and Preprocessing, Text index, k-means  and Visualization.
- <br><span>&#10033;</span> Algorithms (LDA) and Math Formulation.
- <br><span>&#10033;</span> Wrote and presented a paper on data visualization.
- <br><strong><u>Technologies</u></strong>: machine learning, mathematical algorithms, eclipse, java, data analysis, lucene
+ <b><span>&mdash;</span></b> Bluemix: Node Red  and Push Notifications for Spark Core - Web and Mobile (Android) control of Particle Core device using Node-Red and Push notification on Bluemix to turn LED on/off through WiFi
+ <br><b><span>&mdash;</span></b> Xbee, Ethernet, Arduino, Node Red and MongoDB: Project with Xbees, Arduinos, Ethernet and Bluemix. The data read from the device is saved in MongoDB database
+ <br><b><span>&mdash;</span></b> Cognitive Builder Faire : Cognitive and Data innovation faire – Won the 2nd place in the data science hackathon
+ <br><b><span>&mdash;</span></b> Analyze an image and send status alert : An  IoT app that uses Openwhisk serverless and Watson visual recognition to analyze images and send alert notifications
+ <br><b><span>&mdash;</span></b> How to generate API key and token in IBM Watson IoT Platform
+ <br><br><strong><u>Technologies</u></strong>: android, node-red, java, xml, sqlite, bluemix, Watson apis, analytics, docker, apim, arduino, C, javascript, node.js, angularJS, devops, kafka/zookeeper, cloud, mqtt, security, react-redux, mongo, python (Codewars.com level: 4kyu), internet of things (connect devices to cloud from A to Z), AR, html, css, ajax, jquery, slack bot, devops, kubernetes, serverless, prometheus/alertmanager
+ <br><br>
+ <br><b><span>&mdash;</span></b> CarLot - Park & Save: Designed to resolve ongoing inefficiency. Valuable to find a car in airport and mall parking lots. Save location to mobile device and use a route map to return to the saved location.  Calculates shortest walking route and estimated walking time. Includes  option to save a picture of the location to the file and many other options.
+ <br><b><span>&mdash;</span></b> Attendance: Designed and coded app to resolve ongoing inefficiency. Applicable worldwide. Especially valuable to administrators needing to record attendance at  meetings, classes, and conferences. Replaces the need for hardcopy sign-in. Records attendee name, physical location at time of sign-in, date, and time.
+ <br><b><span>&mdash;</span></b> Wisdom Of Solomon: Designed and coded to inspire people with great quotings and wisdoms. It has a great value of self-consciousness and a moment of thought for meditation.
+ <br><b><span>&mdash;</span></b> Zruyts: Java based web application and Android app (both seperately) can communicate in one place (like chat room) can have multiple users joining in.
+ <br><b><span>&mdash;</span></b> Bluemix Spark Core LED On/Off: Android app for a tutorial project to turn an LED on or off through HTTP request to a Particle Core WiFi device which in turns uses REST API to process that request.
+ <br><b><span>&mdash;</span></b> Rundberg Community : mobile web application using Watson’s Translation, Speech-to-Text & Text-to-Speech
+ <br><br><strong><u>Technologies</u></strong>: android, javascript, java, xml, sqlite, mysql, Arduino C, node-red, Watson, html
+ <br><br>
+ <br><b><span>&mdash;</span></b> Programmed applications using Java, Natclipse, Javascript, database , spring, struts, hibernate web application, and Job Control Language (JCL), performed unit testing.
+ <br><b><span>&mdash;</span></b> Participated in Agile/Sprint Scrum meetings to customize and integrate Innowake tools into the client environment.
+ <br><b><span>&mdash;</span></b> Developed, tested and debugged applications and dialogs refactored from Natural to Java: Adabas to db2, and Java Swing POS client to Java/Javascript client  in the back-end (mainly testing) and in the Swing/Web client (Spring Framework).
+ <br><b><span>&mdash;</span></b> Project phases: Programmed and debugged backend Java application during 4-month  Pilot phase. Programmed and debugged frontend Java Swing application durig 4-month Iteration 1 Part 1 phase.
+ <br><br><strong><u>Technologies</u></strong>: xml, javascript, j2ee, swing, maven, CVS, JUnit, db2, SQL, Apache Tomcat, agile lifecycle, Jira
+ <br><br>
+ <br><b><span>&mdash;</span></b> Contributed to the full software lifecycle, from defining requirements through successful deployment for different games with POS Altura, GT1100, GT1200 terminals and many other terminal types.
+ <br><b><span>&mdash;</span></b> Analyzed user requirements, designed and programmed enhancements to core Java application in Embedded Software on lottery terminals accessed by millions of retailers worldwide.
+ <br><b><span>&mdash;</span></b> Core Java programming, from AWT user interface coding for dialogs, multithreading, transaction, scripting (TML) to print, and back end performance design to communicate with attached platforms.
+ <br><b><span>&mdash;</span></b> Used SSH from Windows to upload and debug code behavior (on logs) on terminals which runs on Linux operating system and its all attached hardware peripherals using Kshell.
+ <br><b><span>&mdash;</span></b> Waterfall Software Design methodology, documentation & project code estimates.
+ <br><b><span>&mdash;</span></b> Worked with projects teams in U.S. & abroad.
+ <br><br><strong><u>Technologies</u></strong>: java, xml, eclipse, linux, tml, CVS, SVN, waterfall lifecycle, Jira, Shell Scripting, Putty
+ <br><br>
+ <br><b><span>&mdash;</span></b> Recognized the value and developed the algorithm to add a third vector for 2D Text Visualization graphic display. The third vector enablement of 3D Text Visualization to exponentially accelerate problem solving.
+ <br><b><span>&mdash;</span></b> Data Mining (JSON, Carot2 Clustering Engine, Apache Lucene – Query Parser Syntax), Data Analysis and Preprocessing, Text index, k-means  and Visualization.
+ <br><b><span>&mdash;</span></b> Algorithms (LDA) and Math Formulation.
+ <br><b><span>&mdash;</span></b> Wrote and presented a paper on data visualization.
+ <br><br><strong><u>Technologies</u></strong>: machine learning, mathematical algorithms, eclipse, java, data analysis, lucene
