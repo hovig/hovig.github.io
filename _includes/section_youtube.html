@@ -1,22 +1,22 @@
 {% if site.youtube %}
 	<div id="coursesBubble" class="rounded_panel txt_lightgrey">
 		<div class="top-rounded-panel grey-bg">
-			<h1>Youtube (<a target='_blank' href="{{site.youtube.profileurl}}">view profile</a>)</h1>
+			<h1><a target='_blank' href="{{site.youtube.profileurl}}">Youtube</a></h1>
 		</div>
 		<div class="content-rounded-panel">
 			<div id="youtubePanel">
 				{% for videos in site.youtube.videos %}
 				<div class="row">
-					{% if course.optionalimage %}
+					{% if videos.optionalimage %}
 						<div class="col-sm-5">
-							<img src="{{video.optionalimage}}">
+							<img src="{{videos.optionalimage}}">
 						</div>
 					{% endif %}
 					<div class="col-sm-6">
-						<a target='_blank' href="{{video.link}}">
-							{{video.title}}
+						<a target='_blank' href="{{videos.link}}">
+							{{videos.title}}
 						</a><br/>
-						<i>{{video.date}}</i>
+						<i>{{videos.date}}</i>
 					</div>
 				</div><br/>
 				{% endfor %}
