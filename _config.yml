@@ -114,8 +114,7 @@ youtube:
 
 publications:
    profileurl: https://www.amazon.com/Arabica-Ohannes-Ohannessian/dp/1502585456/ref=sr_1_9?s=books&ie=UTF8&qid=1525749203&sr=1-9&keywords=arabica
-   description: Wrote an instructional book to teach Arabic to English speaking audience using communicative sentences to make it easy conversing the language—selling on Amazon.<br>
-                <br><span>&#10033;</span> <u>ARABICA - Learn & Speak Arabic</u>. Designed and wrote a practical, affordable book to make Arabic more accessible to English speaking audience.
+   description: <u>ARABICA - Learn & Speak Arabic</u> - wrote an instructional book to teach Arabic to English speaking audience using communicative sentences to make it easy conversing the language.<br>
 
 member:
    profileurl: https://ieeexplore.ieee.org/
@@ -136,7 +135,7 @@ github:
  - hovig/xbee-ethernet-arduino-nodered
  - hovig/gyro-watson-ml
 
-#Stackoverflow flair is optional
+#Github is optional
 githubsidepanel:
     profileurl: https://github.com/hovig
     flairimageurl: ./img/gravatar.jpeg
