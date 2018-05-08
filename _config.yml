@@ -1,5 +1,5 @@
 # Site settings
-title: Ohannes (Hovig) Ohannessian
+title: Hovig Ohannessian
 twitter_username: hovig613
 name: Ohannes (Hovig) Ohannessian
 
@@ -132,8 +132,8 @@ github:
 
 #Stackoverflow flair is optional
 stackoverflow:
-   profileurl: https://stackoverflow.com/users/4360384/hovig
-   flairimageurl: https://stackoverflow.com/users/flair/4360384.png
+    profileurl: https://stackoverflow.com/users/4360384/hovig
+    flairimageurl: https://stackoverflow.com/users/flair/4360384.png
 
 #Mobile apps section is optional
 apps:
