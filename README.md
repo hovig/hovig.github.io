@@ -1,20 +1,20 @@
 
-A Jekyll based CV page generator.
+## Running online on Github
 
-You can checkout the page generated for this repo here: https://hovig.github.io
+```
+- fork this repo and git clone https://github.com/hovig/hovig.github.io.git
+- from Settings, change your repo's name to {{YOUR_USERNAME}}.github.io
+- make changes to the contents in _config.yml 
+- push from terminal or commit on page
+- open https://{{yourusername}}.github.io in your browser
+```
 
+## Running local
 
-## Making your own CV
+```
+git clone https://github.com/hovig/hovig.github.io.git
+cd hovig.github.io
+jekyll serve --incremental
+```
 
-To make your own GitHub hosted CV:
-
-1. Fork this repo into your github account
-2. Click the "Settings" button in your new forked repository (in the menu on the right), and change the repository's name to {{yourusername}}.github.io, replacing yourusername with your GitHub user name.
-3. Update /_config.yml with the details of your CV - the comments will explain what is required
-4. Visit https://{{yourusername}}.github.io to check it out
-5. Share your new CV/Profile with the world!
-
-
-If you want to test it locally, install Ruby & Jekyll, clone the repository locally and run "jekyll serve" from the repo root directoy.
-
-If you want to host the page on your own web hosting, you will need to run it locally and jekyll will build the site files to the /_site directory which you can then push to your hosting provider - See https://jekyllrb.com/ for details.
+> Make sure you have Ruby & Jekyll installed - check https://jekyllrb.com/ for more.
