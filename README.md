@@ -1,7 +1,7 @@
 # NerdAbility - A CV Generator
 A Jekyll based CV page generator.
 
-You can checkout the page generated for this repo here: http://hovig.github.io
+You can checkout the page generated for this repo here: https://hovig.github.io
 
 
 ## Making your own CV

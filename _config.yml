@@ -53,31 +53,31 @@ roles:
    end: Ongoing
    employer: IBM
    description: Designing and developing mobile, IoT and web applications (frontend/backend) including hands-on platform infrastructures using VM, Bluemix Cloud and SoftLayer. Worked as devops on server side development and configurations for Watson IoT Platform and others. Created prototypes and real world applications end-to-end (small and large scale). Working on different cloud projects including IBM’s Cloudprivate with Kubernetes. Participated to hackathons, code challenging tools online and created hackathon and workshops.
-   Technologies Used: android, node-red, java, xml, sqlite, bluemix, Watson apis, analytics, docker, apim, arduino, C, javascript, node.js, angularJS, devops, kafka/zookeeper, cloud, mqtt, security, react-redux, mongo, python (Codewars.com level: 4kyu), internet of things (connect devices to cloud from A to Z), AR, html, css, ajax, jquery, slack bot, devops, kubernetes, serverless, prometheus/alertmanager
+   technologies Used: android, node-red, java, xml, sqlite, bluemix, Watson apis, analytics, docker, apim, arduino, C, javascript, node.js, angularJS, devops, kafka/zookeeper, cloud, mqtt, security, react-redux, mongo, python (Codewars.com level: 4kyu), internet of things (connect devices to cloud from A to Z), AR, html, css, ajax, jquery, slack bot, devops, kubernetes, serverless, prometheus/alertmanager
  - title: Software Engineer
    start: 2014
    end: 2015
    employer: Yerutech
    description: Solving problems to give people more discretionary time and reduce their stress level. Designing and developing mobile applications—available in the Android Play Store. Yerutech is a startup business for web apps, for Android and for Internet of Things.
-   Technologies Used: android, javascript, java, xml, sqlite, mysql, Arduino C, node-red, Watson, html
+   technologies Used: android, javascript, java, xml, sqlite, mysql, Arduino C, node-red, Watson, html
 - title: Software Engineer
    start: 2013
    end: 2014
    employer: innoWake
    description: Migration and application Modernization Company based in Germany. Worked as a junior Software Engineer dedicated to integrating software with third-party partners for the client.
-   Technologies Used: xml, javascript, j2ee, swing, maven, CVS, JUnit, db2, SQL, Apache Tomcat, agile lifecycle, Jira
+   technologies Used: xml, javascript, j2ee, swing, maven, CVS, JUnit, db2, SQL, Apache Tomcat, agile lifecycle, Jira
  - title: Software Engineer
    start: 2011
    end: 2013
    employer: Gtech
    description: Leading gaming solutions company. Worked as a junior Software Engineer. Designed, developed, created Sales team demos, and maintained the baseline code.
-   Technologies Used: java, xml, eclipse, linux, tml, CVS, SVN, waterfall lifecycle, Jira, Shell Scripting, Putty
+   technologies Used: java, xml, eclipse, linux, tml, CVS, SVN, waterfall lifecycle, Jira, Shell Scripting, Putty
  - title: Research Student Exchange
    start: 2010
    end: 2010
    employer: IBM – China Research Lab Team
    description: Worked with Data Visualization team. Researched about Machine Learning and Data Mining. Program funded by National Science Foundation (NSF) and LA PIRE. Selected based upon faculty recommendation.
-   Technologies Used: machine learning, mathematical algorithms, eclipse, java, data analysis, lucene
+   technologies Used: machine learning, mathematical algorithms, eclipse, java, data analysis, lucene
 
 
 #Education is required
