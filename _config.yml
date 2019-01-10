@@ -119,6 +119,7 @@ member:
 github:
  - hovig/vote-hyperledger-ethereum
  - hovig/pulse-iot-wml-mobile-health
+ - hovig/web3-fabric-voting-dapp
  - hovig/kivoon
  - hovig/heart-beat-watson-machinelearning
  - hovig/rabbitmq-nodejs
