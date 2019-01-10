@@ -50,7 +50,6 @@ skills:
  - Kafka/Zookeeper
  - Visualization
  - Tech Architecture
- - Data Science
  - Blockchain
  - Kubernetes
 
@@ -151,7 +150,7 @@ apps:
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
- <br><b><u>To list a few:</u></b>
+ <center><br><b><u>To list a few:</u></b><br><br></center>
 
  <br><b><span>&mdash;</span></b> Bluemix: Node Red  and Push Notifications for Spark Core - Web and Mobile (Android) control of Particle Core device using Node-Red and Push notification on Bluemix to turn LED on/off through WiFi
  <br><b><span>&mdash;</span></b> Xbee, Ethernet, Arduino, Node Red and MongoDB: Project with Xbees, Arduinos, Ethernet and Bluemix. The data read from the device is saved in MongoDB database
