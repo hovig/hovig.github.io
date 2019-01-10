@@ -25,6 +25,8 @@ primarylinks:
    url: https://github.ibm.com/oohanne
  - title: VisualCV
    url: https://www.visualcv.com/app/#/cvs/393640
+ - title: Medium
+   url: https://medium.com/@levanoni613
 
 #Any buzzword skills you want to include
 skills:
@@ -48,6 +50,10 @@ skills:
  - Kafka/Zookeeper
  - Visualization
  - Tech Architecture
+ - Data Science
+ - Blockchain
+ - Kubernetes
+
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
 blogfeed: https://twitter.com/hovig613
@@ -58,16 +64,16 @@ roles:
    start: 2015
    end: Ongoing
    employer: IBM
-   description: Designing and developing mobile, IoT and web applications (frontend/backend) including hands-on platform infrastructures using VM, Bluemix Cloud and SoftLayer. Worked as devops on server side development and configurations for Watson IoT Platform and others. Created prototypes and real world applications end-to-end (small and large scale). Working on different cloud projects including IBM’s Cloudprivate with Kubernetes. Participated to hackathons, code challenging tools online and prepared/participated in hackathons and workshops.
+   description: Designing and developing mobile, IoT, Blockchain and all sorts of web applications (frontend/backend/DB) including hands-on platform infrastructures using VM, Bluemix Cloud and SoftLayer. Worked as devops on server side development and configurations for Watson IoT Platform and others. Created prototypes and real world applications end-to-end (small and large scale). Working on different cloud projects including IBM’s Cloudprivate with Kubernetes. Participated to hackathons, code challenging tools online and prepared/participated in hackathons and workshops.
  - title: Software Engineer
    start: 2011
    end: 2015
-   employer: Startup + Enterprise
+   employer: Startup (yerutech.com) + Enterprise
    description: End-to-end solutions
 
 #Education is required
 education:
- - level: Masters of Science (MSDS online - in progress)
+ - level: Masters of Science (MSDS - in progress)
    date: 2019
    subject: Data Science
    school: CUNY
@@ -84,7 +90,7 @@ youtube:
       link: https://www.youtube.com/watch?v=TufD9akAaXY&t=24s
       optionalimage: https://i.ytimg.com/vi/TufD9akAaXY/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLAjsSfYTNsOxwOpYfAjRwU5_UGvkg
       date: Oct 12, 2017
-    - title: Upload and analyze an image using Functions, Node-RED, Node.js & IoT Platform
+    - title: Upload and analyze an image using Functions (Serverless), Node-RED, Node.js & IoT Platform
       link: https://www.youtube.com/watch?v=WKnrbA-N13A
       optionalimage: https://i.ytimg.com/vi/WKnrbA-N13A/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLBnypsq14agZmxYEWSOBqKyK9jNPw
       date: Oct 27, 2017
@@ -96,6 +102,10 @@ youtube:
       link: https://www.youtube.com/watch?v=mtzQQfU8VuU
       optionalimage: https://i.ytimg.com/vi/mtzQQfU8VuU/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLArXcXcYsqStnwlht86BaLs7oqyOw
       date: Apr 12, 2018
+    - title: Coffee Brew IoT - Node RED + nodemcu + mqtt + slack + mic + speech to speech + audio player
+      link: https://www.youtube.com/watch?v=JYZVim6CiUw
+      optionalimage: https://i.ytimg.com/vi/JYZVim6CiUw/hqdefault.jpg
+      date: Jun 28, 2018
 
 publications:
    profileurl: https://www.amazon.com/Arabica-Ohannes-Ohannessian/dp/1502585456/ref=sr_1_9?s=books&ie=UTF8&qid=1525749203&sr=1-9&keywords=arabica
@@ -107,6 +117,7 @@ member:
 
 #List of interesting Github repo/projects to include - optional
 github:
+ - hovig/vote-hyperledger-ethereum
  - hovig/pulse-iot-wml-mobile-health
  - hovig/kivoon
  - hovig/heart-beat-watson-machinelearning
@@ -114,11 +125,11 @@ github:
  - hovig/Using-IOT-toProcess-BlockchainAnalytics
  - hovig/image-analysis-iot-alert
  - hovig/retail-pymongo-docker
- - hovig/dsxsquare
+ - hovig/lora_to_lora_mqtt_iot_cloud
  - hovig/gyrolib
  - hovig/particle-android-bluemix
  - hovig/xbee-ethernet-arduino-nodered
- - hovig/gyro-watson-ml
+ - hovig/dockerized-python-ml-pipeline
 
 #Github is optional
 githubsidepanel:
@@ -139,6 +150,7 @@ apps:
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
+ <br><b><u>To list a few:</u></b>
 
  <br><b><span>&mdash;</span></b> Bluemix: Node Red  and Push Notifications for Spark Core - Web and Mobile (Android) control of Particle Core device using Node-Red and Push notification on Bluemix to turn LED on/off through WiFi
  <br><b><span>&mdash;</span></b> Xbee, Ethernet, Arduino, Node Red and MongoDB: Project with Xbees, Arduinos, Ethernet and Bluemix. The data read from the device is saved in MongoDB database
