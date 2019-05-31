@@ -36,17 +36,13 @@ skills:
  - Internet of Things
  - Watson
  - Cognitive
- - Javascript
- - Python
+ - Agile
+ - Python, C, Javascript, Node.js, AngularJS, React, Java, R, GO, HTML, Jade, EJS, CSS, Ajax, JQuery, Node-RED
  - Docker
  - Microservices
- - Java
- - NoSQL
- - SQL
- - POSTGRESQL
+ - Serverless
+ - NoSQL, SQL, Postgresql, Cloudant, Mongo
  - REST
- - Node.js
- - R
  - Jupyter
  - MQTT
  - Kafka/Zookeeper
@@ -55,6 +51,11 @@ skills:
  - Blockchain
  - Kubernetes
  - Research
+ - Android 
+ - Docker Containers 
+ - Hardware IoT
+ - Recommender Systems 
+ - Blockchain
  - ..Many More..
 
 
