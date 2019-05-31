@@ -31,6 +31,7 @@ primarylinks:
 #Any buzzword skills you want to include
 skills:
  - Data Science
+ - Artificial Intelligence
  - Machine Learning
  - Internet of Things
  - Watson
@@ -42,6 +43,7 @@ skills:
  - Java
  - NoSQL
  - SQL
+ - POSTGRESQL
  - REST
  - Node.js
  - R
@@ -52,6 +54,8 @@ skills:
  - Tech Architecture
  - Blockchain
  - Kubernetes
+ - Research
+ - ..Many More..
 
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
@@ -63,12 +67,12 @@ roles:
    start: 2015
    end: Ongoing
    employer: IBM
-   description: Designing and developing mobile, IoT, Blockchain and all sorts of web applications (frontend/backend/DB) including hands-on platform infrastructures using VM, Bluemix Cloud and SoftLayer. Worked as devops on server side development and configurations for Watson IoT Platform and others. Created prototypes and real world applications end-to-end (small and large scale). Working on different cloud projects including IBM’s Cloudprivate with Kubernetes. Participated to hackathons, code challenging tools online and prepared/participated in hackathons and workshops.
+   description: Designing and developing innovative mobile, core development, data metrics, data analytics, platforms, IoT, Blockchain and all sorts of web applications (frontend/ backend/db) including hands-on platform infrastructure coding on Bluemix Cloud and SoftLayer. Worked as devops on server-side development and configurations for Watson IoT Platform. Created prototypes and real-world applications end-to-end (small and large scale). Working on different cloud projects including IBM’s Cloudprivate (ICP) which is based on Kubernetes. Participated to hackathons, code challenging tools online and created a hackathon and workshops.
  - title: Software Engineer
    start: 2011
    end: 2015
-   employer: Startup (yerutech.com) + Enterprise
-   description: End-to-end solutions
+   employer: Local and overseas experiences with enterprises in many different tech industries + launced startup (yerutech.com)
+   description: Core development, end-to-end solutions and fullstack integrations
 
 #Education is required
 education:
