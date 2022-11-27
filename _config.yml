@@ -31,9 +31,9 @@ primarylinks:
 #Any buzzword skills you want to include
 skills:
  - Data Science
- - Artificial Intelligence
- - Machine Learning
- - Internet of Things
+ - Artificial Intelligence AI
+ - Machine Learning ML
+ - Internet of Things IoT
  - Watson
  - Cognitive
  - Agile
@@ -56,6 +56,7 @@ skills:
  - Hardware IoT
  - Recommender Systems 
  - Blockchain
+ - Terraform
  - ..Many More..
 
 
@@ -64,19 +65,33 @@ blogfeed: https://twitter.com/hovig613
 
 #Work experience is required
 roles:
- - title: Software Engineer
-   start: 2015
+ - title: Sr. Infrastructure Engineer
+   start: 2021
    end: Ongoing
+   employer: Sharecare
+   description: Infrastructure and devops designs and scripting for AI and ML platform and projects + other modules. 
+ - title: Sr. Software Engineer
+   start: 2020
+   end: 2021
+   employer: ClearTrace (SwytchX)
+   description: Coding and architectural designing end-to-end solutions with the latest technologies in the energy industry. Building scalable microservice applications, APIs, libraries and pipelines. FullStack, backend, scripting and many other skills used with cloud providers - AWS (ECS, ECR, EC2, ...), Heroku, Digital Ocean, SendGrid 
+ - title: Sr. Software Engineer
+   start: 2015
+   end: 2020
    employer: IBM
    description: Designing and developing innovative mobile, core development, data metrics, data analytics, platforms, IoT, Blockchain and all sorts of web applications (frontend/ backend/db) including hands-on platform infrastructure coding on Bluemix Cloud and SoftLayer. Worked as devops on server-side development and configurations for Watson IoT Platform. Created prototypes and real-world applications end-to-end (small and large scale). Working on different cloud projects including IBM’s Cloudprivate (ICP) which is based on Kubernetes. Participated to hackathons, code challenging tools online and created a hackathon and workshops.
  - title: Software Engineer
    start: 2011
    end: 2015
-   employer: Local and overseas experiences with enterprises in many different tech industries + launched startup (yerutech.com)
-   description: Core development, end-to-end solutions and fullstack integrations
+   employer: Local and overseas experiences 
+   description: Core development, end-to-end solutions and fullstack integrations with enterprises in many different tech industries + my own startup work (yerutech.com) with few projects
 
 #Education is required
 education:
+ - level: Certification
+   date: 2022
+   subject: Internet of Things Business Implications and Opportunities
+   school: MIT Sloan
  - level: Masters of Science 
    date: 2019
    subject: Data Science
@@ -157,6 +172,8 @@ apps:
 additionalinfo: |
  <center><br><b><u>To list a few:</u></b><br><br></center>
 
+ <br><br><strong><u>Technologies</u></strong>: ai, ml, cml, mlops, groovy, jenkins, CI/CD, groovy, shell, vuejs, mongodb, cloudformation, terraform, python, gcp, aws, docker, networks, security, go, shell, terraform, infrastructure, gitlab, kubernetes, mlops, mlflow, cml, spinnaker, atlantis
+ <br><br>
  <br><b><span>&mdash;</span></b> Bluemix: Node Red  and Push Notifications for Spark Core - Web and Mobile (Android) control of Particle Core device using Node-Red and Push notification on Bluemix to turn LED on/off through WiFi
  <br><b><span>&mdash;</span></b> Xbee, Ethernet, Arduino, Node Red and MongoDB: Project with Xbees, Arduinos, Ethernet and Bluemix. The data read from the device is saved in MongoDB database
  <br><b><span>&mdash;</span></b> Cognitive Builder Faire : Cognitive and Data innovation faire – Won the 2nd place in the data science hackathon
