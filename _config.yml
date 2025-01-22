@@ -9,55 +9,55 @@ markdown: kramdown
 #User specific content
 #Links that will appear in the navbar
 primarylinks:
- - title: Blog
-   url: https://www.ibm.com/blogs/bluemix/author/oohanneus-ibm-com/
- - title: GitHub
-   url: https://github.com/hovig
- - title: RPubs
-   url: http://rpubs.com/hovig613
- - title: DWAnswers
-   url: https://developer.ibm.com/answers/users/254251/hovig-ohannessian/
- - title: Stackoverflow
-   url: https://stackoverflow.com/users/4360384/hovig
- - title: LinkedIn
-   url: https://www.linkedin.com/in/hovig-ohannessian-55897231/
- - title: IBM Github
-   url: https://github.ibm.com/oohanne
- - title: VisualCV
-   url: https://www.visualcv.com/app/#/cvs/393640
- - title: Medium
-   url: https://medium.com/@levanoni613
+  - title: Blog
+    url: https://www.ibm.com/blogs/bluemix/author/oohanneus-ibm-com/
+  - title: GitHub
+    url: https://github.com/hovig
+  - title: RPubs
+    url: http://rpubs.com/hovig613
+  - title: DWAnswers
+    url: https://developer.ibm.com/answers/users/254251/hovig-ohannessian/
+  - title: Stackoverflow
+    url: https://stackoverflow.com/users/4360384/hovig
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/hovig-ohannessian-55897231/
+  - title: IBM Github
+    url: https://github.ibm.com/oohanne
+  - title: VisualCV
+    url: https://www.visualcv.com/app/#/cvs/393640
+  - title: Medium
+    url: https://medium.com/@levanoni613
 
 #Any buzzword skills you want to include
 skills:
- - Data Science
- - Artificial Intelligence AI
- - Machine Learning ML
- - Internet of Things IoT
- - Watson
- - Cognitive
- - Agile
- - Python, C, Javascript, Node.js, AngularJS, React, Java, R, GO, HTML, Jade, EJS, CSS, Ajax, JQuery, Node-RED
- - Docker
- - Microservices
- - Serverless
- - NoSQL, SQL, Postgresql, Cloudant, Mongo
- - REST
- - Jupyter
- - MQTT
- - Kafka/Zookeeper
- - Visualization
- - Tech Architecture
- - Blockchain
- - Kubernetes
- - Research
- - Android 
- - Docker Containers 
- - Hardware IoT
- - Recommender Systems 
- - Blockchain
- - Terraform
- - ..Many More..
+  - Data Science
+  - Artificial Intelligence AI
+  - Machine Learning ML
+  - Internet of Things IoT
+  - Watson
+  - Cognitive
+  - Agile
+  - Python, C, Javascript, Node.js, AngularJS, React, Java, R, GO, HTML, Jade, EJS, CSS, Ajax, JQuery, Node-RED
+  - Docker
+  - Microservices
+  - Serverless
+  - NoSQL, SQL, Postgresql, Cloudant, Mongo
+  - REST
+  - Jupyter
+  - MQTT
+  - Kafka/Zookeeper
+  - Visualization
+  - Tech Architecture
+  - Blockchain
+  - Kubernetes
+  - Research
+  - Android 
+  - Docker Containers 
+  - Hardware IoT
+  - Recommender Systems 
+  - Blockchain
+  - Terraform
+  - ..Many More..
 
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
@@ -65,31 +65,31 @@ blogfeed: https://twitter.com/hovig613
 
 #Work experience is required
 roles:
- - title: Founder | Engineer
-   start: 2023
-   end: Ongoing
-   employer: yLink Manager
-   description: Frontend, backend, API, SSO, DevOps, MLOps, infrastructure and scripts for healthcare AI and ML platforms. 
- - title: Lead Infra/DevOps
-   start: 2021
-   end: 2023
-   employer: Sharecare
-   description: Infrastructure and devops designs and scripting for AI and ML platform and projects + other modules. 
- - title: Lead Software
-   start: 2020
-   end: 2021
-   employer: ClearTrace (SwytchX)
-   description: Coding and architectural designing end-to-end solutions with the latest technologies in the energy industry. Building scalable microservice applications, APIs, libraries and pipelines. FullStack, backend, scripting and many other skills used with cloud providers - AWS (ECS, ECR, EC2, ...), Heroku, Digital Ocean, SendGrid 
- - title: Sr. Software
-   start: 2015
-   end: 2020
-   employer: IBM
-   description: Designing and developing innovative mobile, core development, data metrics, data analytics, platforms, IoT, Blockchain and all sorts of web applications (frontend/ backend/db) including hands-on platform infrastructure coding on Bluemix Cloud and SoftLayer. Worked as devops on server-side development and configurations for Watson IoT Platform. Created prototypes and real-world applications end-to-end (small and large scale). Working on different cloud projects including IBM’s Cloudprivate (ICP) which is based on Kubernetes. Participated to hackathons, code challenging tools online and created a hackathon and workshops.
- - title: Software Engineer
-   start: 2011
-   end: 2015
-   employer: Local and overseas experiences 
-   description: Core development, end-to-end solutions and fullstack integrations with enterprises in many different tech industries + my own startup work (yerutech.com) with few projects
+  - title: Founder | Engineer
+    start: 2023
+    end: Ongoing
+    employer: yLink Manager
+    description: Frontend, backend, API, SSO, DevOps, MLOps, infrastructure and scripts for healthcare AI and ML platforms. 
+  - title: Lead Infra/DevOps
+    start: 2021
+    end: 2023
+    employer: Sharecare
+    description: Infrastructure and devops designs and scripting for AI and ML platform and projects + other modules. 
+  - title: Lead Software
+    start: 2020
+    end: 2021
+    employer: ClearTrace (SwytchX)
+    description: Coding and architectural designing end-to-end solutions with the latest technologies in the energy industry. Building scalable microservice applications, APIs, libraries and pipelines. FullStack, backend, scripting and many other skills used with cloud providers - AWS (ECS, ECR, EC2, ...), Heroku, Digital Ocean, SendGrid 
+  - title: Sr. Software
+    start: 2015
+    end: 2020
+    employer: IBM
+    description: Designing and developing innovative mobile, core development, data metrics, data analytics, platforms, IoT, Blockchain and all sorts of web applications (frontend/ backend/db) including hands-on platform infrastructure coding on Bluemix Cloud and SoftLayer. Worked as devops on server-side development and configurations for Watson IoT Platform. Created prototypes and real-world applications end-to-end (small and large scale). Working on different cloud projects including IBM’s Cloudprivate (ICP) which is based on Kubernetes. Participated to hackathons, code challenging tools online and created a hackathon and workshops.
+  - title: Software Engineer
+    start: 2011
+    end: 2015
+    employer: Local and overseas experiences 
+    description: Core development, end-to-end solutions and fullstack integrations with enterprises in many different tech industries + my own startup work (yerutech.com) with few projects
 
 #Education is required
 education:
@@ -132,14 +132,14 @@ youtube:
       date: Jun 28, 2018
 
 patents:
-  title: DYNAMIC ASSIGNMENT OF DEVICES BASED ON PRECISION SENSORS
-  patenturl: https://patents.justia.com/patent/11768296
-  
-  title: PRODUCT RETURNS BASED ON INTERNAL COMPOSITION RULES
-  patenturl: https://patents.justia.com/patent/20220270108
+  - title: DYNAMIC ASSIGNMENT OF DEVICES BASED ON PRECISION SENSORS
+    patenturl: https://patents.justia.com/patent/11768296
 
-  title: PRODUCT DISCOVERY VIA CONNECTED KITCHEN
-  patenturl: https://patents.justia.com/patent/11157936
+  - title: PRODUCT RETURNS BASED ON INTERNAL COMPOSITION RULES
+    patenturl: https://patents.justia.com/patent/20220270108
+
+  - title: PRODUCT DISCOVERY VIA CONNECTED KITCHEN
+    patenturl: https://patents.justia.com/patent/11157936
 
 publications:
   profileurl: https://www.amazon.com/Arabica-Ohannes-Ohannessian/dp/1502585456/ref=sr_1_9?s=books&ie=UTF8&qid=1525749203&sr=1-9&keywords=arabica
