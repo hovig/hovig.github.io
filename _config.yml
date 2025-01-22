@@ -132,12 +132,14 @@ youtube:
       date: Jun 28, 2018
 
 patents:
-  - title: DYNAMIC ASSIGNMENT OF DEVICES BASED ON PRECISION SENSORS
-    patenturl: https://patents.justia.com/patent/11768296
-  - title: PRODUCT RETURNS BASED ON INTERNAL COMPOSITION RULES
-    patenturl: https://patents.justia.com/patent/20220270108
-  - description: PRODUCT DISCOVERY VIA CONNECTED KITCHEN
-    patenturl: https://patents.justia.com/patent/11157936
+  title: DYNAMIC ASSIGNMENT OF DEVICES BASED ON PRECISION SENSORS
+  patenturl: https://patents.justia.com/patent/11768296
+  
+  title: PRODUCT RETURNS BASED ON INTERNAL COMPOSITION RULES
+  patenturl: https://patents.justia.com/patent/20220270108
+
+  title: PRODUCT DISCOVERY VIA CONNECTED KITCHEN
+  patenturl: https://patents.justia.com/patent/11157936
 
 publications:
   profileurl: https://www.amazon.com/Arabica-Ohannes-Ohannessian/dp/1502585456/ref=sr_1_9?s=books&ie=UTF8&qid=1525749203&sr=1-9&keywords=arabica
