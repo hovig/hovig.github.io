@@ -93,23 +93,23 @@ roles:
 
 #Education is required
 education:
- - level: Certification
-   date: 2022
-   subject: Internet of Things Business Implications and Opportunities
-   school: MIT Sloan
- - level: Masters of Science 
-   date: 2019
-   subject: Data Science
-   school: CUNY
- - level: Bachelor of Science in Computer Engineering (BSCE)
-   date: 2010
-   subject: Computer Engineering
-   school: Florida Atlantic University
+  - level: Certification
+    date: 2022
+    subject: Internet of Things Business Implications and Opportunities
+    school: MIT Sloan
+  - level: Masters of Science 
+    date: 2019
+    subject: Data Science
+    school: CUNY
+  - level: Bachelor of Science in Computer Engineering (BSCE)
+    date: 2010
+    subject: Computer Engineering
+    school: Florida Atlantic University
 
 #This section is optional (as is the image link below)
 youtube:
-   profileurl: https://www.youtube.com/channel/UCZIFTruEPSjQRmj7y48eAnA?view_as=subscriber
-   videos:
+  profileurl: https://www.youtube.com/channel/UCZIFTruEPSjQRmj7y48eAnA?view_as=subscriber
+  videos:
     - title: Create, connect and simulate devices with Watson Data Platform and Node-Red
       link: https://www.youtube.com/watch?v=TufD9akAaXY&t=24s
       optionalimage: https://i.ytimg.com/vi/TufD9akAaXY/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLAjsSfYTNsOxwOpYfAjRwU5_UGvkg
@@ -140,29 +140,29 @@ patents:
     link: https://patents.justia.com/patent/11157936
 
 publications:
-   profileurl: https://www.amazon.com/Arabica-Ohannes-Ohannessian/dp/1502585456/ref=sr_1_9?s=books&ie=UTF8&qid=1525749203&sr=1-9&keywords=arabica
-   description: <u>ARABICA - Learn & Speak Arabic</u> - wrote an instructional book to teach Arabic to English speaking audiences using communicative sentences to make it easy conversing the language.<br>
+  profileurl: https://www.amazon.com/Arabica-Ohannes-Ohannessian/dp/1502585456/ref=sr_1_9?s=books&ie=UTF8&qid=1525749203&sr=1-9&keywords=arabica
+  description: <u>ARABICA - Learn & Speak Arabic</u> - wrote an instructional book to teach Arabic to English speaking audiences using communicative sentences to make it easy conversing the language.<br>
 
 member:
-   profileurl: https://ieeexplore.ieee.org/
-   organization: IEEE Member
+  profileurl: https://ieeexplore.ieee.org/
+  organization: IEEE Member
 
 #List of interesting Github repo/projects to include - optional
 github:
- - hovig/vote-hyperledger-ethereum
- - hovig/pulse-iot-wml-mobile-health
- - hovig/web3-fabric-voting-dapp
- - hovig/kivoon
- - hovig/heart-beat-watson-machinelearning
- - hovig/rabbitmq-nodejs
- - hovig/Using-IOT-toProcess-BlockchainAnalytics
- - hovig/image-analysis-iot-alert
- - hovig/retail-pymongo-docker
- - hovig/lora_to_lora_mqtt_iot_cloud
- - hovig/gyrolib
- - hovig/particle-android-bluemix
- - hovig/xbee-ethernet-arduino-nodered
- - hovig/dockerized-python-ml-pipeline
+  - hovig/vote-hyperledger-ethereum
+  - hovig/pulse-iot-wml-mobile-health
+  - hovig/web3-fabric-voting-dapp
+  - hovig/kivoon
+  - hovig/heart-beat-watson-machinelearning
+  - hovig/rabbitmq-nodejs
+  - hovig/Using-IOT-toProcess-BlockchainAnalytics
+  - hovig/image-analysis-iot-alert
+  - hovig/retail-pymongo-docker
+  - hovig/lora_to_lora_mqtt_iot_cloud
+  - hovig/gyrolib
+  - hovig/particle-android-bluemix
+  - hovig/xbee-ethernet-arduino-nodered
+  - hovig/dockerized-python-ml-pipeline
 
 #Github is optional
 githubsidepanel:
@@ -176,48 +176,48 @@ stackoverflow:
 
 #Mobile apps section is optional
 apps:
- - name: Android Apps
-   platform: Android
-   url: https://play.google.com/store/apps/developer?id=YeruTech&hl=en
-   description: Android apps on Google Play
+  - name: Android Apps
+    platform: Android
+    url: https://play.google.com/store/apps/developer?id=YeruTech&hl=en
+    description: Android apps on Google Play
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
- <center><br><b><u>To list a few:</u></b><br><br></center>
+  <center><br><b><u>To list a few:</u></b><br><br></center>
 
- <br><br><strong><u>Technologies</u></strong>: ai, ml, cml, mlops, groovy, jenkins, CI/CD, groovy, shell, vuejs, mongodb, cloudformation, terraform, python, gcp, aws, docker, networks, security, go, shell, terraform, infrastructure, gitlab, kubernetes, mlops, mlflow, cml, spinnaker, atlantis
- <br><br>
- <br><b><span>&mdash;</span></b> Bluemix: Node Red  and Push Notifications for Spark Core - Web and Mobile (Android) control of Particle Core device using Node-Red and Push notification on Bluemix to turn LED on/off through WiFi
- <br><b><span>&mdash;</span></b> Xbee, Ethernet, Arduino, Node Red and MongoDB: Project with Xbees, Arduinos, Ethernet and Bluemix. The data read from the device is saved in MongoDB database
- <br><b><span>&mdash;</span></b> Cognitive Builder Faire : Cognitive and Data innovation faire – Won the 2nd place in the data science hackathon
- <br><b><span>&mdash;</span></b> Analyze an image and send status alert : An  IoT app that uses Openwhisk serverless and Watson visual recognition to analyze images and send alert notifications
- <br><b><span>&mdash;</span></b> How to generate API key and token in IBM Watson IoT Platform
- <br><br><strong><u>Technologies</u></strong>: android, node-red, java, xml, sqlite, bluemix, Watson apis, analytics, docker, apim, arduino, C, javascript, node.js, angularJS, devops, kafka/zookeeper, cloud, mqtt, security, react-redux, mongo, python (Codewars.com level: 4kyu), internet of things (connect devices to cloud from A to Z), AR, html, css, ajax, jquery, slack bot, devops, kubernetes, serverless, prometheus/alertmanager
- <br><br>
- <br><b><span>&mdash;</span></b> CarLot - Park & Save: Designed to resolve ongoing inefficiency. Valuable to find a car in airport and mall parking lots. Save location to mobile device and use a route map to return to the saved location.  Calculates shortest walking route and estimated walking time. Includes  option to save a picture of the location to the file and many other options.
- <br><b><span>&mdash;</span></b> Attendance: Designed and coded app to resolve ongoing inefficiency. Applicable worldwide. Especially valuable to administrators needing to record attendance at  meetings, classes, and conferences. Replaces the need for hardcopy sign-in. Records attendee name, physical location at time of sign-in, date, and time.
- <br><b><span>&mdash;</span></b> Wisdom Of Solomon: Designed and coded to inspire people with great quotings and wisdoms. It has a great value of self-consciousness and a moment of thought for meditation.
- <br><b><span>&mdash;</span></b> Zruyts: Java based web application and Android app (both seperately) can communicate in one place (like chat room) can have multiple users joining in.
- <br><b><span>&mdash;</span></b> Bluemix Spark Core LED On/Off: Android app for a tutorial project to turn an LED on or off through HTTP request to a Particle Core WiFi device which in turns uses REST API to process that request.
- <br><b><span>&mdash;</span></b> Rundberg Community : mobile web application using Watson’s Translation, Speech-to-Text & Text-to-Speech
- <br><br><strong><u>Technologies</u></strong>: android, javascript, java, xml, sqlite, mysql, Arduino C, node-red, Watson, html
- <br><br>
- <br><b><span>&mdash;</span></b> Programmed applications using Java, Natclipse, Javascript, database , spring, struts, hibernate web application, and Job Control Language (JCL), performed unit testing.
- <br><b><span>&mdash;</span></b> Participated in Agile/Sprint Scrum meetings to customize and integrate Innowake tools into the client environment.
- <br><b><span>&mdash;</span></b> Developed, tested and debugged applications and dialogs refactored from Natural to Java: Adabas to db2, and Java Swing POS client to Java/Javascript client  in the back-end (mainly testing) and in the Swing/Web client (Spring Framework).
- <br><b><span>&mdash;</span></b> Project phases: Programmed and debugged backend Java application during 4-month  Pilot phase. Programmed and debugged frontend Java Swing application durig 4-month Iteration 1 Part 1 phase.
- <br><br><strong><u>Technologies</u></strong>: xml, javascript, j2ee, swing, maven, CVS, JUnit, db2, SQL, Apache Tomcat, agile lifecycle, Jira
- <br><br>
- <br><b><span>&mdash;</span></b> Contributed to the full software lifecycle, from defining requirements through successful deployment for different games with POS Altura, GT1100, GT1200 terminals and many other terminal types.
- <br><b><span>&mdash;</span></b> Analyzed user requirements, designed and programmed enhancements to core Java application in Embedded Software on lottery terminals accessed by millions of retailers worldwide.
- <br><b><span>&mdash;</span></b> Core Java programming, from AWT user interface coding for dialogs, multithreading, transaction, scripting (TML) to print, and back end performance design to communicate with attached platforms.
- <br><b><span>&mdash;</span></b> Used SSH from Windows to upload and debug code behavior (on logs) on terminals which runs on Linux operating system and its all attached hardware peripherals using Kshell.
- <br><b><span>&mdash;</span></b> Waterfall Software Design methodology, documentation & project code estimates.
- <br><b><span>&mdash;</span></b> Worked with projects teams in U.S. & abroad.
- <br><br><strong><u>Technologies</u></strong>: java, xml, eclipse, linux, tml, CVS, SVN, waterfall lifecycle, Jira, Shell Scripting, Putty
- <br><br>
- <br><b><span>&mdash;</span></b> Recognized the value and developed the algorithm to add a third vector for 2D Text Visualization graphic display. The third vector enablement of 3D Text Visualization to exponentially accelerate problem solving.
- <br><b><span>&mdash;</span></b> Data Mining (JSON, Carot2 Clustering Engine, Apache Lucene – Query Parser Syntax), Data Analysis and Preprocessing, Text index, k-means  and Visualization.
- <br><b><span>&mdash;</span></b> Algorithms (LDA) and Math Formulation.
- <br><b><span>&mdash;</span></b> Wrote and presented a paper on data visualization.
- <br><br><strong><u>Technologies</u></strong>: machine learning, mathematical algorithms, eclipse, java, data analysis, lucene
+  <br><br><strong><u>Technologies</u></strong>: ai, ml, cml, mlops, groovy, jenkins, CI/CD, groovy, shell, vuejs, mongodb, cloudformation, terraform, python, gcp, aws, docker, networks, security, go, shell, terraform, infrastructure, gitlab, kubernetes, mlops, mlflow, cml, spinnaker, atlantis
+  <br><br>
+  <br><b><span>&mdash;</span></b> Bluemix: Node Red  and Push Notifications for Spark Core - Web and Mobile (Android) control of Particle Core device using Node-Red and Push notification on Bluemix to turn LED on/off through WiFi
+  <br><b><span>&mdash;</span></b> Xbee, Ethernet, Arduino, Node Red and MongoDB: Project with Xbees, Arduinos, Ethernet and Bluemix. The data read from the device is saved in MongoDB database
+  <br><b><span>&mdash;</span></b> Cognitive Builder Faire : Cognitive and Data innovation faire – Won the 2nd place in the data science hackathon
+  <br><b><span>&mdash;</span></b> Analyze an image and send status alert : An  IoT app that uses Openwhisk serverless and Watson visual recognition to analyze images and send alert notifications
+  <br><b><span>&mdash;</span></b> How to generate API key and token in IBM Watson IoT Platform
+  <br><br><strong><u>Technologies</u></strong>: android, node-red, java, xml, sqlite, bluemix, Watson apis, analytics, docker, apim, arduino, C, javascript, node.js, angularJS, devops, kafka/zookeeper, cloud, mqtt, security, react-redux, mongo, python (Codewars.com level: 4kyu), internet of things (connect devices to cloud from A to Z), AR, html, css, ajax, jquery, slack bot, devops, kubernetes, serverless, prometheus/alertmanager
+  <br><br>
+  <br><b><span>&mdash;</span></b> CarLot - Park & Save: Designed to resolve ongoing inefficiency. Valuable to find a car in airport and mall parking lots. Save location to mobile device and use a route map to return to the saved location.  Calculates shortest walking route and estimated walking time. Includes  option to save a picture of the location to the file and many other options.
+  <br><b><span>&mdash;</span></b> Attendance: Designed and coded app to resolve ongoing inefficiency. Applicable worldwide. Especially valuable to administrators needing to record attendance at  meetings, classes, and conferences. Replaces the need for hardcopy sign-in. Records attendee name, physical location at time of sign-in, date, and time.
+  <br><b><span>&mdash;</span></b> Wisdom Of Solomon: Designed and coded to inspire people with great quotings and wisdoms. It has a great value of self-consciousness and a moment of thought for meditation.
+  <br><b><span>&mdash;</span></b> Zruyts: Java based web application and Android app (both seperately) can communicate in one place (like chat room) can have multiple users joining in.
+  <br><b><span>&mdash;</span></b> Bluemix Spark Core LED On/Off: Android app for a tutorial project to turn an LED on or off through HTTP request to a Particle Core WiFi device which in turns uses REST API to process that request.
+  <br><b><span>&mdash;</span></b> Rundberg Community : mobile web application using Watson’s Translation, Speech-to-Text & Text-to-Speech
+  <br><br><strong><u>Technologies</u></strong>: android, javascript, java, xml, sqlite, mysql, Arduino C, node-red, Watson, html
+  <br><br>
+  <br><b><span>&mdash;</span></b> Programmed applications using Java, Natclipse, Javascript, database , spring, struts, hibernate web application, and Job Control Language (JCL), performed unit testing.
+  <br><b><span>&mdash;</span></b> Participated in Agile/Sprint Scrum meetings to customize and integrate Innowake tools into the client environment.
+  <br><b><span>&mdash;</span></b> Developed, tested and debugged applications and dialogs refactored from Natural to Java: Adabas to db2, and Java Swing POS client to Java/Javascript client  in the back-end (mainly testing) and in the Swing/Web client (Spring Framework).
+  <br><b><span>&mdash;</span></b> Project phases: Programmed and debugged backend Java application during 4-month  Pilot phase. Programmed and debugged frontend Java Swing application durig 4-month Iteration 1 Part 1 phase.
+  <br><br><strong><u>Technologies</u></strong>: xml, javascript, j2ee, swing, maven, CVS, JUnit, db2, SQL, Apache Tomcat, agile lifecycle, Jira
+  <br><br>
+  <br><b><span>&mdash;</span></b> Contributed to the full software lifecycle, from defining requirements through successful deployment for different games with POS Altura, GT1100, GT1200 terminals and many other terminal types.
+  <br><b><span>&mdash;</span></b> Analyzed user requirements, designed and programmed enhancements to core Java application in Embedded Software on lottery terminals accessed by millions of retailers worldwide.
+  <br><b><span>&mdash;</span></b> Core Java programming, from AWT user interface coding for dialogs, multithreading, transaction, scripting (TML) to print, and back end performance design to communicate with attached platforms.
+  <br><b><span>&mdash;</span></b> Used SSH from Windows to upload and debug code behavior (on logs) on terminals which runs on Linux operating system and its all attached hardware peripherals using Kshell.
+  <br><b><span>&mdash;</span></b> Waterfall Software Design methodology, documentation & project code estimates.
+  <br><b><span>&mdash;</span></b> Worked with projects teams in U.S. & abroad.
+  <br><br><strong><u>Technologies</u></strong>: java, xml, eclipse, linux, tml, CVS, SVN, waterfall lifecycle, Jira, Shell Scripting, Putty
+  <br><br>
+  <br><b><span>&mdash;</span></b> Recognized the value and developed the algorithm to add a third vector for 2D Text Visualization graphic display. The third vector enablement of 3D Text Visualization to exponentially accelerate problem solving.
+  <br><b><span>&mdash;</span></b> Data Mining (JSON, Carot2 Clustering Engine, Apache Lucene – Query Parser Syntax), Data Analysis and Preprocessing, Text index, k-means  and Visualization.
+  <br><b><span>&mdash;</span></b> Algorithms (LDA) and Math Formulation.
+  <br><b><span>&mdash;</span></b> Wrote and presented a paper on data visualization.
+  <br><br><strong><u>Technologies</u></strong>: machine learning, mathematical algorithms, eclipse, java, data analysis, lucene
