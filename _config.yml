@@ -106,6 +106,14 @@ education:
     subject: Computer Engineering
     school: Florida Atlantic University
 
+patents:
+  title: Patents by Hovig Ohannessian
+  patenturl: https://patents.justia.com/inventor/ohannes-ohannessian
+
+publications:
+  profileurl: https://www.amazon.com/Arabica-Ohannes-Ohannessian/dp/1502585456/ref=sr_1_9?s=books&ie=UTF8&qid=1525749203&sr=1-9&keywords=arabica
+  description: Wrote an instructional book to teach Arabic to English speaking audiences using communicative sentences to make it easy conversing the language.<br>
+
 #This section is optional (as is the image link below)
 youtube:
   profileurl: https://www.youtube.com/channel/UCZIFTruEPSjQRmj7y48eAnA?view_as=subscriber
@@ -130,14 +138,6 @@ youtube:
       link: https://www.youtube.com/watch?v=JYZVim6CiUw
       optionalimage: https://i.ytimg.com/vi/JYZVim6CiUw/hqdefault.jpg
       date: Jun 28, 2018
-
-patents:
-  title: Patents by Hovig Ohannessian
-  patenturl: https://patents.justia.com/inventor/ohannes-ohannessian
-
-publications:
-  profileurl: https://www.amazon.com/Arabica-Ohannes-Ohannessian/dp/1502585456/ref=sr_1_9?s=books&ie=UTF8&qid=1525749203&sr=1-9&keywords=arabica
-  description: ARABICA - Learn & Speak Arabic | wrote an instructional book to teach Arabic to English speaking audiences using communicative sentences to make it easy conversing the language.<br>
 
 member:
   profileurl: https://ieeexplore.ieee.org/
